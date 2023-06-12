@@ -1,0 +1,14 @@
+.navbar__logo {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+.navbar__logo h1 {
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #324223;
+}
